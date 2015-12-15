@@ -1,11 +1,12 @@
-# wordcloud
+# wordcloud-CN
 ==========
 
 python 生成中文词云
 
-##installation
+##Installation
 
-wordcloud:https://github.com/amueller/word_cloud
+wordcloud:
+https://github.com/amueller/word_cloud
 
             pip install wordcloud
 
@@ -19,10 +20,12 @@ http://git.oschina.net/fxsjy/jieba
 
             pip install PIL
 
-Mac/Linux:http://www.jianshu.com/p/5265b76026d9
-Windows:http://www.crifan.com/python_module_pil/
+Mac/Linux:
+http://www.jianshu.com/p/5265b76026d9
 
-                                               
-~                                                                               
-~                                                                               
-~                                                                              
+Windows:http:
+//www.crifan.com/python_module_pil/
+
+##Examples
+
+ex1.jpg

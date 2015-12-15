@@ -42,25 +42,9 @@ with open ('/Users/Fantas/Desktop/情书一.txt') as f:
 
     seg_list = r' '.join(seg_list)
 
-# def wordcloudplot(txt):
 
-#     wordcloud = WordCloud(font_path='/Users/Fantas/Downloads/simheittf/simhei.ttf', 
-
-#                           background_color="black",   #可以选择black或white
-
-#                           margin=5, width=1800, height=800,  relative_scaling=.5) # 长宽度控制清晰程度​
-
-#     wordcloud = wordcloud.generate(txt)
-
-#     # Open a plot of the generated image.
-
-#     plt.imshow(wordcloud)
-#     plt.axis("off")
-#     plt.show()
-
-# wordcloudplot(seg_list)
-#  # 词云
-# # wordcloud = WordCloud(max_font_size=40, relative_scaling=.5)
+# 词云
+# wordcloud = WordCloud(max_font_size=40, relative_scaling=.5)
 wordcloud = WordCloud(font_path='/Users/Fantas/Downloads/simheittf/git/simhei.ttf',    background_color="black",   margin=5, width=1800, height=800) 
 
 wordcloud = wordcloud.generate(seg_list)

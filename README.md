@@ -1,7 +1,7 @@
-# wordcloud-CN
+#中文词云(wordcloud)
 ==========
 
-python 生成中文词云
+##python 生成中文词云
 
 ##Installation
 
@@ -28,4 +28,4 @@ Windows:http:
 
 ##Examples
 
-ex1.jpg
+![image](https://github.com/FantasRu/wordcloud/blob/master/examples/ex1.jpg)

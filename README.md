@@ -8,12 +8,12 @@
 ####wordcloud:
 
             pip install wordcloud
-            https://github.com/amueller/word_cloud
+https://github.com/amueller/word_cloud
 
 ####中文分词:jieba
 
             pip install jieba
-            http://git.oschina.net/fxsjy/jieba
+http://git.oschina.net/fxsjy/jieba
 
 ####图包:PIL
 

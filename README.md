@@ -26,7 +26,7 @@ http://www.jianshu.com/p/5265b76026d9
 http://www.crifan.com/python_module_pil/
 
 ##Examples
-            ######情书一.txt
+######情书一.txt
 ![image](https://github.com/FantasRu/wordcloud/blob/master/examples/ex1.jpg)
 
 ##参考

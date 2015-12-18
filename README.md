@@ -29,6 +29,9 @@ http://www.crifan.com/python_module_pil/
 ######情书一.txt
 ![image](https://github.com/FantasRu/wordcloud/blob/master/examples/ex1.jpg)
 
+######吵架.txt
+![image](https://github.com/FantasRu/wordcloud/blob/master/2.jpg)
+
 ##参考
 
 ######word_cloud:

@@ -4,7 +4,7 @@
 
 ##什么是词云
 
-释义】由词汇组成类似云的彩色图形。
+【释义】由词汇组成类似云的彩色**图形**。
 
 > 点[我](http://baike.baidu.com/link?url=_uVuO2s1YsSbv0zrhR2s-Wvu9qdyKWlSC9glRc-9huWqFkX6p5KcOH7uW79aGinvWAQc6SNRq17nIzWoaSKZ0K)是百度百科
 

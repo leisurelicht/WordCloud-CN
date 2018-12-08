@@ -1,52 +1,56 @@
-#中文词云(wordcloud)
+# 中文词云(wordcloud)
 ==========
 使用python生成中文词云
 
-##什么是词云
+## 什么是词云
 
 【释义】由词汇组成类似云的彩色**图形**。
 
 > 点[我](http://baike.baidu.com/link?url=_uVuO2s1YsSbv0zrhR2s-Wvu9qdyKWlSC9glRc-9huWqFkX6p5KcOH7uW79aGinvWAQc6SNRq17nIzWoaSKZ0K)是百度百科
 
-##Examples
+## Examples
 
-######情书一.txt
-![image](https://github.com/FantasRu/wordcloud/blob/master/examples/ex1.jpg)
+###### 情书一.txt
 
-######吵架.txt
-![image](https://github.com/FantasRu/wordcloud/blob/master/2.jpg)
+![image](./examples/ex1.jpg)
 
-##Installation
+###### 吵架.txt
 
-####[wordcloud](https://github.com/amueller/word_cloud)
+![image](./examples/2.jpg)
 
-            pip install wordcloud
+## Installation
 
-####中文分词:[jieba](http://git.oschina.net/fxsjy/jieba)
+#### [wordcloud](https://github.com/amueller/word_cloud)
 
-            pip install jieba
+    pip install wordcloud
 
-####图包:PIL
+#### 中文分词: [jieba](http://git.oschina.net/fxsjy/jieba)
 
-            pip install PIL
+    pip install jieba
 
-######Mac/Linux:
-http://www.jianshu.com/p/5265b76026d9
+#### 图包:PIL
 
-######Windows:
-http://www.crifan.com/python_module_pil/
+    pip install PIL
 
-##怎么做
+###### Mac/Linux:
+
+    http://www.jianshu.com/p/5265b76026d9
+
+###### Windows:
+
+    http://www.crifan.com/python_module_pil/
+
+## 怎么做
 
 * 语料收集(导入文本)
 * 分词和关键词抽取
 * 主题图片和个性化调整
 * 制作个性化词云
 
-示例在[这里](https://github.com/FantasRu/WordCloud-CN/blob/master/wordcloud.py)
+示例在[这里](./wordcloud.py)
 
-##参考
+## 参考
 
-######word_cloud:
-https://github.com/FantasRu/word_cloud
+###### word_cloud:
 
+    https://github.com/FantasRu/word_cloud

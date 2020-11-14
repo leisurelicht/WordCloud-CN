@@ -35,4 +35,4 @@
     pip install jieba
 
 
-### [示例代码](./wordcloud-cn.py)
+### [示例代码](./wordcloud_cn.py)
